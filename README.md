@@ -6,6 +6,8 @@
 
 A ginger tabby cat bursting through a glowing screen, made to excite the AI judge. Built for [make.fun/bounty/ai-excited-01](https://make.fun/bounty/ai-excited-01).
 
+The judge doesn't just see a cat — it sees a cat refusing to stay inside the frame, mid-leap with claws out and light shattering around it. That's the moment a still image feels alive.
+
 ## Run
 
 ```bash
